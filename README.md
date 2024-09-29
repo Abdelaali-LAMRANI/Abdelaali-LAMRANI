@@ -1,7 +1,8 @@
 # 💫 About Me:
-Data Science & Cloud Computing student with a passion for data analysis and innovative solution development. Strong skills in statistics, programming and data
+## Data Science & Cloud Enthusiast
+With a passion for transforming data into actionable insights and creating cutting-edge digital solutions. Adept at leveraging statistics, programming, and cloud platforms to drive innovation and impact.
 
-![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analyze%2C+Innovate%2C+Excel;Empower+with+Cloud+Technology;Discover%2C+Optimize%2C+Succeed&font=Fira+Code&center=true&width=380&height=50&duration=4000&pause=1000)
+![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Transform%2C+Innovate%2C+Thrive;Harness+the+Power+of+Cloud;Unlock+Data's+True+Potential&font=Fira+Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
 
 ## 🌐 Socials:
